@@ -45,7 +45,6 @@ decorator==5.1.1
 deep-translator==1.11.4
 defusedxml==0.7.1
 dependencies==2.0.1
-diffprivlib @ file:///Users/ujjwalsingh/Documents/Development/mit/mycelium/encryption/differential-privacy-library
 dill==0.3.8
 distlib==0.3.8
 distro==1.8.0
