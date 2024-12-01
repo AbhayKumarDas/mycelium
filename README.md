@@ -35,12 +35,3 @@ npm install
 pip install -r requirements.txt
 modal run federated_learning.py # Federated Learning starts here
 ```
-
-## License
-
-MIT
-## Contact Info
-Feel free to contact us for any questions or recruitment opportunities
-[Ujjwal's Linkedin]: <https://www.linkedin.com/in/ujjwalsinghh/>
-   [Jon's Linkedin]: <https://www.linkedin.com/in/jkozlik/>
-   [Sriya's Linkedin]: <https://www.linkedin.com/in/sriya-chinthalapudi/>
