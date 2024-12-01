@@ -1,4 +1,4 @@
-## Federated Learning, Powered by MyCelium, Decentralized ML training on encrypted data 
+## Federated Learning & Decentralized ML training on encrypted data 
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
